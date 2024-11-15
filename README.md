@@ -1,2 +1,3 @@
-# adaptive-email-client-app
-NaanMudhalvan
+# AdaptiveEmailApp
+
+google developer:https://g.dev/Jithu191
